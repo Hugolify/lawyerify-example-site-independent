@@ -1,0 +1,14 @@
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: content
+      target: content
+    - source: data
+      target: data
+
+expertises: /competences/:slug/
+posts: /journal/:year-:month-:day-:slug/
+posts_expertises: /journal/expertises/:slug/
+categories: /journal/categories/:slug/
+tags: /journal/tags/:slug/
