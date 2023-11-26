@@ -3,7 +3,7 @@ isIndex: false
 title: Droit de la protection sociale
 description: Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna.
 image:
-  src: /images/uploads/andrew-neel-cckf4tshauw-unsplash.jpg
+  src: /images/uploads/mikhail-pavstyuk-eky2otrpxdw-unsplash.jpg
 hero:
   surtitle: Cabinet Léa Payet
   title: Droit de la protection sociale
