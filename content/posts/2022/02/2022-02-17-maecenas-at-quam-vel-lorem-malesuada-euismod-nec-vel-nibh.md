@@ -2,17 +2,17 @@
 isIndex: false
 draft: false
 date: 2022-02-17T10:21:30+02:00
-title: Maecenas at quam vel lorem malesuada euismod nec vel nibh. Cras ac
-  facilisis nunc
+title: Nous accueillons une nouvelle stagiaire pour plusieurs mois
 description: Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu
   varius egestas, metus nulla rutrum diam, et accumsan purus lacus vel ante.
   Suspendisse egestas augue a egestas consectetur. Aliquam interdum hendrerit
   porta.
 categories: Actualité du cabinet
 tags:
-  - Lorem
+  - Stagiaire
+  - Recrutement
 image:
-  src: /images/uploads/tingey-injury-law-firm-6sl88x150xs-unsplash.jpg
+  src: /images/uploads/christina-wocintechchat-com-0zx1bdv5bny-unsplash.jpg
 ---
 ## Vestibulum consequat sit amet est eleifend laoreet
 
