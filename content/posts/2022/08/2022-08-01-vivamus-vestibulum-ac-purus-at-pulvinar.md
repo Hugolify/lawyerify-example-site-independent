@@ -9,7 +9,7 @@ posts_expertises:
 categories: Articles
 image:
   src: /images/uploads/viktor-bystrov-qd-zd2MoeE8-unsplash.jpg
-  credits: Photo de <a href="https://unsplash.com/fr/@xokvictor?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Viktor Bystrov</a> sur <a href="https://unsplash.com/fr/photos/uomo-alla-guida-del-veicolo-qd-zd2MoeE8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  credit: Photo de [Viktor Bystrov](https://unsplash.com/fr/@xokvictor?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
 ---
 Le monde du travail évolue rapidement, avec l'émergence de nouvelles formes d'emploi telles que le travail indépendant, les contrats de courte durée et l'économie gigantesque. Face à ces changements, les droits des travailleurs jouent un rôle crucial dans la préservation de conditions de travail équitables.
 

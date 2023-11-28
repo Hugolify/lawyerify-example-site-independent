@@ -28,7 +28,7 @@ blocks:
       Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt.
     image:
       src: /images/uploads/ruben-hanssen-2-gLI_4SRl4-unsplash.jpg
-      legend: Photo de <a href="https://unsplash.com/fr/@rhfhanssen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ruben Hanssen</a> sur <a href="https://unsplash.com/fr/photos/un-grand-immeuble-avec-une-porte-rouge-2-gLI_4SRl4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      credit: Photo de <a href="https://unsplash.com/fr/@rhfhanssen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ruben Hanssen</a> sur <a href="https://unsplash.com/fr/photos/un-grand-immeuble-avec-une-porte-rouge-2-gLI_4SRl4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   - type: selected-expertises
     section: expertises
     show_more: false
@@ -45,4 +45,11 @@ blocks:
     heading:
       title: Journal
       text: Toutes l’actualité et les articles concernant notre cabinet
+  - type: cta
+    background: true
+    heading:
+      title: Vous souhaitez échanger avec un avocat sur votre dossier ?
+    cta:
+      text: Contactez-nous
+      url: /contact/
 ---

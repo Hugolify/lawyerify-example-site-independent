@@ -14,7 +14,7 @@ tags:
   - Santé et sécurité au travail
 image:
   src: /images/uploads/christin-hume-Hcfwew744z4-unsplash.jpg
-  credits: Photo de <a href="https://unsplash.com/fr/@christinhumephoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christin Hume</a> sur <a href="https://unsplash.com/fr/photos/persona-che-utilizza-un-computer-portatile-Hcfwew744z4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  credit: Photo de [Christin Hume](https://unsplash.com/fr/@christinhumephoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
 ---
 Le télétravail, désormais ancré dans la réalité professionnelle, s'accompagne d'un cadre juridique visant à protéger les droits des travailleurs tout en permettant aux entreprises de bénéficier des avantages de cette modalité de travail.
 

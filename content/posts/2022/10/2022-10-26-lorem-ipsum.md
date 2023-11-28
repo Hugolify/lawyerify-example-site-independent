@@ -13,7 +13,7 @@ tags:
   - Indemnités
 image:
   src: /images/uploads/romain-dancre-doplSDELX7E-unsplash.jpg
-  credits: Photo de <a href="https://unsplash.com/fr/@romaindancre?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Romain Dancre</a> sur <a href="https://unsplash.com/fr/photos/personne-en-chemise-a-manches-longues-orange-ecrit-sur-du-papier-blanc-doplSDELX7E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  credit: Photo de [Romain Dancre](https://unsplash.com/fr/@romaindancre?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
 ---
 La rupture conventionnelle est une procédure permettant à l'employeur et au salarié de mettre fin à un contrat de travail d'un commun accord. Cette alternative à la démission ou au licenciement traditionnel offre des avantages aux deux parties, mais elle nécessite une compréhension approfondie et le respect de certaines règles.
 

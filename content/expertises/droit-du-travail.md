@@ -3,7 +3,8 @@ isIndex: false
 title: Droit du travail
 description: Le droit du travail constitue la colonne vertébrale des relations professionnelles, offrant un cadre juridique essentiel pour protéger les droits des travailleurs et réguler les interactions entre employeurs et employés.
 image:
-  src: /images/uploads/romain-dancre-doplSDELX7E-unsplash.jpg
+  src: /images/uploads/scott-graham-OQMZwNd3ThU-unsplash.jpg
+  credit: Photo de [Scott Graham](https://unsplash.com/fr/@homajob?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
 hero:
   surtitle: Domaine d’expertise
   title: Droit du travail

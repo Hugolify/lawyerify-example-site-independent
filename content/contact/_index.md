@@ -9,10 +9,12 @@ hero:
   surtitle: Cabinet Léa Payet
   title: Contact
   text: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet
+  image:
+    credit: Photo de [Alesia Kaz](https://unsplash.com/fr/@alesiaskaz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") sur [Unsplash](https://unsplash.com/)
+    src: /images/uploads/alesia-kaz-VWcPlbHglYc-unsplash.jpg
 image:
-  credit: Photo de [Christina @wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-    sur [Unsplash](https://unsplash.com/fr/photos/S3GrMiUhpNU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  src: /images/uploads/christina-wocintechchat-com-s3grmiuhpnu-unsplash.jpg
+  credit: Photo de [Alesia Kaz](https://unsplash.com/fr/@alesiaskaz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") sur [Unsplash](https://unsplash.com/)
+  src: /images/uploads/alesia-kaz-VWcPlbHglYc-unsplash.jpg
 blocks:
   - type: informations
     column: 4
@@ -22,10 +24,19 @@ blocks:
     items:
       - title: Par téléphone
         icon: telephone
+        cta:
+          text: +33 (0) 1 23 45 67 89
+          url: tel:+33123456789
       - title: Par fax
         icon: laptop
+        cta:
+          text: +33 (0) 1 23 45 67 89
+          url: tel:+33123456789
       - title: Par e-mail
         icon: envelope-at
+        cta:
+          text: contact@lawyerify.io
+          url: mailto:contact@lawyerify.io
   - type: map
     background: false
     heading:

@@ -7,8 +7,17 @@ module:
     - source: data
       target: data
 
-expertises: /competences/:slug/
-posts: /journal/:year-:month-:day-:slug/
-posts_expertises: /journal/expertises/:slug/
-categories: /journal/categories/:slug/
-tags: /journal/tags/:slug/
+permalinks:
+  expertises: /competences/:slug/
+  posts: /journal/:year-:month-:day-:slug/
+  posts_expertises: /journal/expertises/:slug/
+  categories: /journal/categories/:slug/
+  tags: /journal/tags/:slug/
+
+params:
+  _merge: deep
+  expertises:
+    _merge: deep
+    thumbnail:
+      _merge: deep
+      desktop: "636x273"
