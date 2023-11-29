@@ -10,6 +10,7 @@ hero:
   title: Droit du travail
   text: Le droit du travail constitue la colonne vertébrale des relations professionnelles, offrant un cadre juridique essentiel pour protéger les droits des travailleurs et réguler les interactions entre employeurs et employés.
 ---
+
 ## Protection des droits fondamentaux
 
 Le droit du travail est le gardien des droits fondamentaux des travailleurs. Il garantit des conditions de travail sûres et saines, le respect de la liberté syndicale, l'égalité des chances, et la prévention de la discrimination. Ces éléments sont cruciaux pour instaurer un environnement professionnel équitable et respectueux.

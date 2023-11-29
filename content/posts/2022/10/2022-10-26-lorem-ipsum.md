@@ -15,6 +15,7 @@ image:
   src: /images/uploads/romain-dancre-doplSDELX7E-unsplash.jpg
   credit: Photo de [Romain Dancre](https://unsplash.com/fr/@romaindancre?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
 ---
+
 La rupture conventionnelle est une procédure permettant à l'employeur et au salarié de mettre fin à un contrat de travail d'un commun accord. Cette alternative à la démission ou au licenciement traditionnel offre des avantages aux deux parties, mais elle nécessite une compréhension approfondie et le respect de certaines règles.
 
 ## Comprendre les principes fondamentaux
@@ -34,4 +35,3 @@ La négociation des conditions de départ est une étape cruciale de la rupture 
 Une fois l'accord finalisé, il est impératif d'informer les instances compétentes, notamment la Direccte (Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi). Cette formalité administrative garantit la validité de la rupture conventionnelle et la protection des droits des deux parties.
 
 {{< alert state="warning" text="*Article généré par IA*" >}}
-

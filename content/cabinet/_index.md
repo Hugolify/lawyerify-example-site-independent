@@ -9,11 +9,13 @@ hero:
   surtitle: Cabinet Léa Payet
   title: Cabinet d’avocat à Paris spécialisé en droit du travail et droit de la protection sociale.
   image:
-    credit: Photo de [Christina @wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    credit:
+      Photo de [Christina @wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
       sur [Unsplash](https://unsplash.com/)
     src: /images/uploads/christina-wocintechchat-com-s3grmiuhpnu-unsplash.jpg
 image:
-  credit: Photo de [Christina @wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  credit:
+    Photo de [Christina @wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     sur [Unsplash](https://unsplash.com/)
   src: /images/uploads/christina-wocintechchat-com-s3grmiuhpnu-unsplash.jpg
 blocks:

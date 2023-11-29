@@ -11,6 +11,7 @@ image:
   src: /images/uploads/viktor-bystrov-qd-zd2MoeE8-unsplash.jpg
   credit: Photo de [Viktor Bystrov](https://unsplash.com/fr/@xokvictor?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
 ---
+
 Le monde du travail évolue rapidement, avec l'émergence de nouvelles formes d'emploi telles que le travail indépendant, les contrats de courte durée et l'économie gigantesque. Face à ces changements, les droits des travailleurs jouent un rôle crucial dans la préservation de conditions de travail équitables.
 
 ## Les contrats flexibles
