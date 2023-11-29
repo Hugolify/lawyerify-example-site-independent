@@ -10,6 +10,7 @@ hero:
   title: Droit de la protection sociale
   text: Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna.
 ---
+
 Le droit de la protection sociale constitue un élément fondamental des systèmes juridiques modernes, visant à assurer la sécurité financière et le bien-être des individus face aux aléas de la vie. Cet ensemble de lois et de dispositifs vise à instaurer une solidarité sociale en offrant une protection contre les risques sociaux tels que la maladie, le chômage, la vieillesse, et l'invalidité. Plongeons dans l'importance et les aspects clés du droit de la protection sociale.
 
 ## Accès aux soins de santé

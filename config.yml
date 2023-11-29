@@ -20,4 +20,4 @@ params:
     _merge: deep
     thumbnail:
       _merge: deep
-      desktop: "636x273"
+      desktop: '636x273'

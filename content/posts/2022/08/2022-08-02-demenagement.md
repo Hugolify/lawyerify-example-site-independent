@@ -9,6 +9,7 @@ image:
   src: /images/uploads/alexander-kagan-t9td0zfdtwi-unsplash.jpg
   credit: Photo de [Alexander Kagan](https://unsplash.com/fr/@allewollenalex?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") sur [Unsplash](https://unsplash.com/)
 ---
+
 Le cabinet déménage dans le 1er arrondissement de Paris
 
 {{< button url="/contact/" text="Contactez nous">}}
@@ -21,7 +22,7 @@ Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus 
 
 ## Sed ultricies at nibh sed malesuada
 
-Mauris nibh leo, sagittis ac convallis nec, varius condimentum eros. Sed ultrices convallis sem, nec vestibulum ligula ullamcorper eget. Cras iaculis dignissim ornare. Aenean et congue nisl. Fusce libero metus, dapibus sed varius sed, hendrerit sodales erat. 
+Mauris nibh leo, sagittis ac convallis nec, varius condimentum eros. Sed ultrices convallis sem, nec vestibulum ligula ullamcorper eget. Cras iaculis dignissim ornare. Aenean et congue nisl. Fusce libero metus, dapibus sed varius sed, hendrerit sodales erat.
 
 Morbi feugiat sapien augue, id feugiat augue eleifend nec. Quisque blandit, enim ac accumsan sagittis, orci dolor sodales sapien, vitae molestie dolor metus ut urna. Maecenas at pretium nisl. Suspendisse lectus turpis, sagittis vehicula odio vitae, cursus molestie quam. Maecenas nulla lectus, finibus non tempor vitae, ullamcorper eu risus.
 
